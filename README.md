@@ -8,8 +8,7 @@ Our AI-powered logistics optimization platform tackles these challenges by lever
 **About Our AI Model for Route Optimization**
 Our AI-powered route optimization model is designed to enhance logistics efficiency by providing accurate predictions of delivery routes, minimizing delays, and improving resource allocation. The model leverages real-time traffic data, vehicle capacities, and demand forecasts to create dynamic, data-driven delivery schedules. By incorporating advanced regression techniques, it predicts delivery distances with high accuracy, reducing fuel consumption and carbon emissions.
 
-**Key features include:
-**
+**Key features include:**
 
 _Traffic and Distance Predictions:_ The model integrates live traffic data to anticipate potential delays and optimizes route distances, ensuring timely deliveries.
 
